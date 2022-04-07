@@ -10,3 +10,7 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+string[] array = {"Hello", "2", "world", ":-)"};
+string[] newarray (string[] array);
+
